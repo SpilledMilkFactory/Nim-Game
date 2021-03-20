@@ -1,6 +1,6 @@
 /*
 Christopher Sutton                                  **Note To Professor: I have found its easiest to test in LMS when all input values are 1 due to the
-Unit 5 homework Nim Game                            random nature of the program (first input value can be 0 or 1 for coin toss)**
+Nim Game                            random nature of the program (first input value can be 0 or 1 for coin toss)**
 11/20/2018
 the first player to rid themselves of all marbles wins. cannot take less than one or more than half
 */
